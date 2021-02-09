@@ -1,2 +1,5 @@
 This is a solution submitted for a HackerEarth's competiontion on using Machine Learning to identify the priority of Human rights petitions to heard.
 
+The google colab file attached contains: cleaning the data, feature engineering, hyperparametrization, training and error analysis.
+
+Explanations will be added later
