@@ -2,4 +2,4 @@
 
 Hi! 
 
-I am compiling the code here for some the Machine Learning contest I have completed in various platforms including HackerEarth, Kaggle etc
+I am compiling the code here for some of the Machine Learning contest I have completed in various platforms including HackerEarth, Kaggle etc
