@@ -1,6 +1,5 @@
-EMOTICONS = {
-    u":‑\)":"Happy face or smiley",
-    u":\)":"Happy face or smiley",
+{u":‑\)":"Happy face or smiley", 
+ u":\)":"Happy face or smiley",
     u":-\]":"Happy face or smiley",
     u":\]":"Happy face or smiley",
     u":-3":"Happy face smiley",
